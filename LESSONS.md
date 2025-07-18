@@ -146,13 +146,13 @@ if guess != secret:
 
 4. Challenge: Let the user choose how many tries they get!
 
-# 🔹 4. Mini Project (25 min)
-**Choose one**:
+# 🔹 4. Mini Projects (25 min)
+
 
 ## 🧪 Project: Simple Quiz App
 **Step-by-Step**:
 
-1. Ask 3 questions using ```input()```.
+1. Ask 5 questions using ```input()```.
 
 2. Use conditionals to check if answers are correct.
 
@@ -180,3 +180,33 @@ else:
 print("Your score is", score, "/ 2")
 
 ```
+
+[Python Playground](https://www.online-python.com/DcMTped805)
+
+## 🧪 Project: Virtual Pet
+**Step-by-Step**:
+
+1. Ask user to name their pet.
+
+2. Use variables to track pet happiness.
+
+3. Use a loop and conditionals to simulate taking care of the pet.
+
+```
+
+name = input("Name your pet: ")
+happiness = 5
+
+for i in range(3):
+    action = input("Feed or Play? ").lower()
+    if action == "feed":
+        happiness += 2
+    elif action == "play":
+        happiness += 3
+    else:
+        happiness -= 1
+
+print(name + "'s happiness level is:", happiness)
+
+```
+
