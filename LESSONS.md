@@ -57,7 +57,6 @@ print("They " + verb + " together until sunset.")
 color = input("Pick a color (red, blue, green): ")
 
 
-
 # Step 2: Use conditionals
 
 if color == "red":
@@ -75,8 +74,18 @@ elif color == "green":
 else:
     print("Hmm… the future is unclear.")
 
-    ```
-Python Playground (https://www.online-python.com/S36DhaRjgx)
+```
+
+3. Run the program and test with different inputs.
+4. Customize it: Add your own questions and responses.
+
+
+# 🔹 3. Loops (30 min)
+📖 Mini-Lesson:
+- Loops repeat code.
+
+- Use ```for``` for a set number of times, ```while``` for repeating until a condition is met.
+
 
 
 
