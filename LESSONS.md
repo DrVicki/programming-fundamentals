@@ -40,3 +40,39 @@ print("They " + verb + " together until sunset.")
 3. Run your program to see the output.
 
 [Python Playground](https://www.online-python.com/Q6pTX7u5fH)
+
+4. Change the variable values to create different stories.
+5. Optional: Add one constant (e.g., ```MAGIC_WORD = "Abracadabra")```
+
+
+# Lesson 2 Conditionals
+
+1. Open a new IDE
+2. Add this starter code.
+
+```
+
+# Step 1: Get user input
+
+color = input("Pick a color (red, blue, green): ")
+
+
+
+# Step 2: Use conditionals
+
+if color == "red":
+
+         print("You will find a surprise today!")
+
+elif color == "blue":
+
+         print("A new opportunity is coming your way.")
+
+elif color == "green":
+
+         print("You will learn something exciting.")
+
+else:
+    print("Hmm… the future is unclear.")
+
+    ```
