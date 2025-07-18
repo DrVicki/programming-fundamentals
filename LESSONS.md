@@ -145,3 +145,38 @@ if guess != secret:
 3. Run the code and test guessing.
 
 4. Challenge: Let the user choose how many tries they get!
+
+# 🔹 4. Mini Project (25 min)
+**Choose one**:
+
+## 🧪 Project: Simple Quiz App
+**Step-by-Step**:
+
+1. Ask 3 questions using ```input()```.
+
+2. Use conditionals to check if answers are correct.
+
+3. Use a variable to count the score.
+
+
+```
+
+score = 0
+
+q1 = input("What is 2 + 2? ")
+if q1 == "4":
+    print("Correct!")
+    score += 1
+else:
+    print("Oops!")
+
+q2 = input("What is the capital of France? ")
+if q2.lower() == "paris":
+    print("Correct!")
+    score += 1
+else:
+    print("Nope!")
+
+print("Your score is", score, "/ 2")
+
+```
