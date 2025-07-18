@@ -76,11 +76,15 @@ else:
 
 ```
 
+[Python Playground](https://www.online-python.com/S36DhaRjgx)
+
 3. Run the program and test with different inputs.
 4. Customize it: Add your own questions and responses.
 
 
-# 🔹 3. Loops (30 min)
+# 🔹 Lesson 3 Loops (30 min)
+
+
 📖 Mini-Lesson:
 - Loops repeat code.
 
