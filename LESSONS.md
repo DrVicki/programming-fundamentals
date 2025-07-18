@@ -1,3 +1,6 @@
+## NOTE: We will be running our code in [Python Playground](https://www.online-python.com/KXmLvup8J6#google_vignette)
+
+
 # Lesson 1: Variables and Constants
 
 - variables store information (like a name or age).
@@ -17,9 +20,9 @@ print(age)
 ## 🧪 Activity: Variable Mad Libs Game
 **Step-by-Step**:
 
-1. Open Replit and start a new Python project.
-
-2. Add the following starter code:
+1. Open Python Playfround.
+2. Erase existing code.
+3. Add the following starter code:
 
 ```
  
@@ -47,8 +50,9 @@ print("They " + verb + " together until sunset.")
 
 # Lesson 2 Conditionals
 
-1. Open a new IDE
-2. Add this starter code.
+1. Open a new Python Playground.
+2. Erase existing code.
+3. Add this starter code.
 
 ```
 
@@ -94,11 +98,12 @@ else:
 ## 🧪 Activity A: Triangle of Stars
 ***Step-by-Step***:
 
-1. Start a new file.
+1. Start a new file in Python Playground.
 
 2. Paste this code:
 
 ```
+
 # Step 1: Use a for loop to print a triangle
 
 for i in range(1, 6):
@@ -116,7 +121,7 @@ for i in range(1, 6):
 ## 🧪 Activity B: Number Guesser
 **Step-by-Step**:
 
-1. Open new IDE.
+1. Open new file in Python Playground.
 
 2. Add this code:
 
@@ -186,9 +191,9 @@ print("Your score is", score, "/ 2")
 ## 🧪 Project: Virtual Pet
 **Step-by-Step**:
 
-1. Ask user to name their pet.
+1. Ask user to name their pet. Ask user for their name.
 
-2. Use variables to track pet happiness.
+2. Use 4 variables to track pet happiness.
 
 3. Use a loop and conditionals to simulate taking care of the pet.
 
@@ -209,4 +214,27 @@ for i in range(3):
 print(name + "'s happiness level is:", happiness)
 
 ```
+[Python Playground](https://www.online-python.com/eYfS4CabqD)
+
+
+# 🔚 Wrap-Up (5 min)
+1. Ask students to share what they built
+
+2. Encourage them to customize projects at home
+
+# SUBMISSION
+
+1. Submit the URL to your code for the 2 Projects from the Python Playground.
+2. Submit the URL to your code for the 2 Activities from the Python Playground.
+3. Submit the URL to your code for the Mini-Lessons from the Python Playground.
+- Add the 2 URLs to the Assignment where indicated in Canvas for credit and a Certificate.
+
+# SURVEY
+
+Please complete the short 5 question survey in Canvas.
+
+**Thanks a bunch**,
+Dr. Vicki
+
+
 
