@@ -1,5 +1,5 @@
 
-![]9https://github.com/DrVicki/programming-fundamentals/blob/main/images/Logo.jpg
+![](https://github.com/DrVicki/programming-fundamentals/blob/main/images/Logo.jpg)
 
 # Welcome to this hands-on Guided Workshop!
 
