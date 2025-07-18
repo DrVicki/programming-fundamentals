@@ -112,3 +112,36 @@ for i in range(1, 6):
 3. Modify the range to make a bigger or smaller triangle.
 
 4. Optional Challenge: Use ```input``` to let the user choose the height.
+
+## 🧪 Activity B: Number Guesser
+**Step-by-Step**:
+
+1. Open new IDE.
+
+2. Add this code:
+
+```
+
+# Step 1: Set secret number
+secret = 7
+attempts = 0
+
+# Step 2: While loop for 3 tries
+while attempts < 3:
+    guess = int(input("Guess the number (1-10): "))
+    if guess == secret:
+        print("🎉 You got it!")
+        break
+    else:
+        print("Try again!")
+    attempts += 1
+
+if guess != secret:
+    print("Out of tries! The number was", secret)
+
+```
+[Python Playground](https://www.online-python.com/PSBUGt3VMg)
+
+3. Run the code and test guessing.
+
+4. Challenge: Let the user choose how many tries they get!
