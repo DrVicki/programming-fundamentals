@@ -91,5 +91,19 @@ else:
 - Use ```for``` for a set number of times, ```while``` for repeating until a condition is met.
 
 
+## 🧪 Activity A: Triangle of Stars
+***Step-by-Step***:
 
+1. Start a new file.
+
+2. Paste this code:
+
+```
+# Step 1: Use a for loop to print a triangle
+
+for i in range(1, 6):
+
+        print("*" * i)
+
+```
 
