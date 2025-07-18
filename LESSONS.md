@@ -107,3 +107,8 @@ for i in range(1, 6):
 
 ```
 
+[Python Playground](https://www.online-python.com/rgHS3tqFc6)
+
+3. Modify the range to make a bigger or smaller triangle.
+
+4. Optional Challenge: Use ```input``` to let the user choose the height.
