@@ -11,6 +11,8 @@ age = 25
 print(name)
 print(age)
 ```
+[Python Playground](https://www.online-python.com/RJV5Z1i4DU)
+
 
 ## 🧪 Activity: Variable Mad Libs Game
 **Step-by-Step**:
