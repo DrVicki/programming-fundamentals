@@ -27,4 +27,5 @@ By the end of the workshop, students will be able to:
 2. A reliable internet connection.
 3. A reliable code playground. [Python Playground](https://www.online-python.com/KXmLvup8J6#google_vignette)
 
-[START HERE](https://github.com/DrVicki/programming-fundamentals#:~:text=2%20minutes%20ago-,LESSONS.md,-edits)
+
+[Lessons](https://github.com/DrVicki/programming-fundamentals/blob/main/LESSONS.md)
